@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+Thumbtack.db
+ehthumbs.db
+desktop.ini
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+
+# Editor / IDE settings (excluding VS Code settings if desired, but let's keep general settings out)
+.idea/
+.project
+.pydevproject
+.settings/
